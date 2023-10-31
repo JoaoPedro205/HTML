@@ -1,0 +1,44 @@
+<html>
+ <head>
+  <title>Exercicio 5 - Criando Links</title>
+   <head/>
+<body>
+<p>Para saber mais informações para o curso, clique nas informações abaixo:</p><br>
+   <a href = "#Capitulo 1">Categoria</A><BR>
+   <A href = "#Capítulo 2">Carga Horária.</A><BR>
+   <A href = "#Capítulo 3">Descrição do curso.</A><BR>
+   <A href = "#Capítulo 4">Estrutura do curso.</A><BR>
+   <A href = "#Capítulo 5">Pré-requisitos.</A><BR> 
+
+    <p><font face="Verdana"size="5"color="ff0099">HTML-Básico.</p></font><BR>
+    <A name = "Capítulo 1">
+     <p><font face="Verdana"size="3"color="ff0099">Categoria do curso.</p></font><BR>
+      <p>Desenvolvimento de aplicativos</p><br>
+    </a>
+   <A name = "Capítulo 2">
+   <p><font face="Verdana"size="3"color="ff0099">Carga Horária.</p></font><BR>
+     <p>11 horas.</p><br>
+    </a>
+    <A name = "Capítulo 3">
+   <p><font face="Verdana"size="3"color="ff0099">Descrição do curso.</p></font><BR>
+     <p>Mostra as funcionalidades do HTML, principais tags,comandos e etc.</p>
+    </a>
+    <A name = "Capítulo 4">
+   <p><font face="Verdana"size="3"color="ff0099">Estrutura do curso.</p></font><BR>
+<ol>
+   <li>Módulo 1:Introdução.
+   <li>Módulo 2:HTML e a web.
+   <li>Módulo 3:Criando um documento HTML.
+   <li>Módulo 4:Formatando um documento HTML.
+   <li>Módulo 5:Criando listas.
+   <li>Módulo 6:Inserindo imagens.
+   <li>Módulo 7:Criando links.
+   <li>Módulo 8:Combinando tags.
+   <li>Módulo 9:Usando imagens mapeadas.
+</ol><br>
+</a>
+<A name = "Capítulo 5">
+   <p><font face="Verdana"size="3"color="ff0099">Pré requisitos.</p></font><BR>
+   <p>Não há pré requisitos para realização do curso</p>
+</a>
+</html>
