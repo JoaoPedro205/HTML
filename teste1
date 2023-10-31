@@ -1,0 +1,22 @@
+body>
+ <p><font face="Verdana"size="5"color="ff0099">Principais pontos turísticos.</p></font>
+ <ol>
+ <li>Porto Alegre.
+ <img src="Porto_Alegre.jpg">
+     <ul>
+     <li>Casa de Cultura Mario Quintana.
+     <li>Jardim Botânico.
+     <li>Lago Guaíba. 
+     </ul>
+ <li>Manaus.
+ <img src="Manaus.jpg">
+     <ul>
+     <li>Encontro das águas.
+     <li>Palácio rio negro.
+     <li>Teatro Amazonas.
+     </ul>
+ </ol>
+ <p>Independente da cidade escolhida, você terá opções maravilhosas para curtir as férias.
+ </body>
+
+</html>
